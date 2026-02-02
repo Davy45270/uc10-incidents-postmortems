@@ -1,2 +1,3 @@
-# uc10-incidents-postmortems
-UC10 Incidents &amp; post-mortems
+# UC10 Incidents & post-mortems
+
+Use case repo for UC10 Incidents & post-mortems.
